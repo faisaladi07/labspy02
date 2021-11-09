@@ -2,6 +2,7 @@
 ## Algoritma Menentukan Nilai Terbesar dari 3 Buah Bilangan 
 ### Flowchart
 <p>Berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan<p>
+
 ![gambar1](ss/flow.png) 
 
 #### Strutur Teks
