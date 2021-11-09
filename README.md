@@ -15,4 +15,22 @@
 <p>7.  Jika nilai2 > nilai3 maka kerjakan nilai2 terbesar , selain itu nilai3 terbesar<p>
 <p>8.  Selesai. <p>
 
-### Menggunakan Statemen If untuk mencari nilai terbesar dari 3 buah bilangan
+### Menggunakan Statemen If Untuk Mencari Nilai Terbesar Dari 3 Buah Bilangan
+#### Berikut Program dan Hasilnya 
+<P>- untuk bilangan pertama saya tulis "bil1",untuk bilangan kedua saya tulis "bil2" dan untuk bilangan ketiga saya tulis "bil3"<p>
+<p>-Dengan Pernyataan cara , jika (if) sebagai "bil1" untuk bilangan pertama , elif sebagai "bil2" untuk bilangan kedua ,dan lain (else) sebagai "bil3" untuk bilangan ketiga .<P>
+<p>-Berikut Program yang saya buat<p>
+
+![gambar2](ss/prg.png)
+
+<P> Untuk hasil program yang dijalankan dengan bilangan pertama yang terbesar<p>
+
+![gambar3](ss/bil1.jpeg)
+
+<p> Sedangkan untuk hasil program yang dijalankan dengan bilangan kedua yang terbesar<p>
+
+![gambar4](ss/bil2.jpeg)
+
+<p> Dan untuk hasil program yang dijalankan dengan bilangan ketiga yang terbesar<p>
+
+![gambar5](ss/bil3.jpeg)
