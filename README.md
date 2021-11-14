@@ -39,11 +39,13 @@
 ### Program untuk menampilkan n bilangan acak yang lebih kecil dari 0,5
 #### cara pengerjaanya 
 <p>•Buka aplikasi python atau lainya menggunakan program python , disini saya menggukanan aplikasi IDLE (python 3,10  64-bit)
-<p>•jika sudah lakukan kodingan seperti gambar dibawah ini :
-![gambar6](ss/prog 1.png)
+<p>•jika sudah lakukan kodingan seperti gambar dibawah ini :<p>
+
+![gambar6](ss/prog1.png)
 <p>•Jika sudah bisa menyimpan program kalian dengan menekan CTRL + S atau mengklik file menu save as dan beri nama programnya
 <p>•Lalu jalankan program kalian dengan menekan f5 atau mengklik menu Run
-<p>•Dan jika berhasil maka tampilan pada program python anda akan seperti ini
+<p>•Dan jika berhasil maka tampilan pada program python anda akan seperti ini:<p>
+
 ![gambar7](ss/hsl1.png)
 <p>Berikut penjelasanya
 <p>print ('Masukkan nilai N: 5')
@@ -83,11 +85,13 @@ Membuat program menampilkan bilangan terbesar dari n buah data yang diinputkan  
 
 #### cara pengerjaanya 
 <p>•Buka aplikasi python atau lainya menggunakan program python , disini saya menggukanan aplikasi IDLE (python 3,10  64-bit)
-<p>•jika sudah lakukan kodingan seperti gambar dibawah ini :
+<p>•jika sudah lakukan kodingan seperti gambar dibawah ini :<p>
+
 ![gambar8](ss/prog2.png)
 <p>•Jika sudah bisa menyimpan program kalian dengan menekan CTRL + S atau mengklik file menu save as dan beri nama programnya
 <p>•Lalu jalankan program kalian dengan menekan f5 atau mengklik menu Run
-<p>•Dan jika berhasil maka tampilan pada program python anda akan seperti ini:
+<p>•Dan jika berhasil maka tampilan pada program python anda akan seperti ini:<P>
+
 ![gambar9](ss/hsl2.png)]
 <p>Penjelasan program diatas sebagai berikut.
 maks = 0
@@ -124,11 +128,13 @@ print('Bilangan terbesarnya adalah',maks)
 ### program untuk menghitung laba investasi
 #### cara pengerjaanya 
 <p>•Buka aplikasi python atau lainya menggunakan program python , disini saya menggukanan aplikasi IDLE (python 3,10  64-bit)
-<p>•jika sudah lakukan kodingan seperti gambar dibawah ini :
+<p>•jika sudah lakukan kodingan seperti gambar dibawah ini :<p>
+
 ![gambar10](ss/progprog1.png)
 <p>•Jika sudah bisa menyimpan program kalian dengan menekan CTRL + S atau mengklik file menu save as dan beri nama programnya
 <p>•Lalu jalankan program kalian dengan menekan f5 atau mengklik menu Run
-<p>•Dan jika berhasil maka tampilan pada program python anda akan seperti ini:
+<p>•Dan jika berhasil maka tampilan pada program python anda akan seperti ini:<p>
+
 ![gambar11](ss/hslprog1.png)
 <p>Penjelasan program diatas sebagai berikut.
 masukkan nilai a
